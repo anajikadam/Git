@@ -1,0 +1,14 @@
+git branch <branch_name>
+git checkout <branch_name>
+
+git fetch --all (to get all github information
+git branch -a   (to check all branches)
+
+
+Main routine:
+
+git add .
+
+git commit -m ""
+
+git push origin <branch_name>
